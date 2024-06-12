@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nocodb-sdk": "^0.207.3"
+  }
+}
